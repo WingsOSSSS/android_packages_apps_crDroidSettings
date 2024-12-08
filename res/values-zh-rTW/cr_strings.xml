@@ -932,7 +932,7 @@
     <string name="lockscreen_weather_category">天氣</string>
     <string name="lockscreen_weather_title">更新天氣</string>
     <string name="lockscreen_weather_summary">更新目前所在位置的天氣</string>
-    <string name="lockscreen_weather_enabled_info">需要啟用天氣服務</string>
+    <string name="lockscreen_weather_enabled_info">需要設定天氣服務且停用 Smartspace</string>
     <string name="lockscreen_weather_location_title">目前位置</string>
     <string name="lockscreen_weather_location_summary">顯示目前所在位置</string>
     <string name="lockscreen_weather_text_title">目前天氣</string>
@@ -1132,8 +1132,8 @@
     <string name="always_on_display_schedule_summary">設定 AOD 排程</string>
     <string name="always_on_display_schedule_sunset">日落</string>
     <string name="always_on_display_schedule_sunrise">日出</string>
-    <string name="always_on_display_schedule_mixed_sunset">從日落開啟直到自訂時間</string>
-    <string name="always_on_display_schedule_mixed_sunrise">從自訂時間開啟直至日出</string>
+    <string name="always_on_display_schedule_mixed_sunset">從日落開始開啟，直到指定的時間</string>
+    <string name="always_on_display_schedule_mixed_sunrise">從指定的時間開啟，直到日出</string>
     <!-- IME Space -->
     <string name="navigation_bar_ime_space_title">輸入法按鍵空間</string>
     <string name="navigation_bar_ime_space_summary">導覽列提示關閉時在鍵盤下方新增空間</string>
@@ -1148,4 +1148,7 @@
     <string name="statusbar_extra_padding_start_title">前端邊距</string>
     <string name="statusbar_extra_padding_top_title">頂部邊距</string>
     <string name="statusbar_extra_padding_end_title">末端邊距</string>
+    <!-- Smartspace -->
+    <string name="lockscreen_smartspace_title">Smartspace</string>
+    <string name="lockscreen_smartspace_summary">當 Google Smartspace 可用時顯示</string>
 </resources>
